@@ -8,9 +8,11 @@ To run this binary navigate to the bin folder and run:
 Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to your system.
 
 # Running 
-The commands below are used to run this tool:
+To run this script input snoop.py followed by the relevant command on your command-line. The commands below are used to run this tool:
 
 ## --help
+
+Displays the help menu
 
 ## hash [file]
 
