@@ -1,11 +1,12 @@
 # FileSnoop
 
-## A tool capable of conducting various static analysis operations to analyze a file. This tool comes with a built event monitor.
+## A tool capable of conducting various static analysis operations to analyze a file. This tool comes with a built event monitor. 
+Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to your system.
 
 # Installation:
 To run this binary navigate to the bin folder and run:
 > pip install -r requirements.txt
-Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to your system.
+
 
 # Running 
 To run this script input snoop.py followed by the relevant command on your command-line. The commands below are used to run this tool:
