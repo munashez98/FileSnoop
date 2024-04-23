@@ -1,7 +1,7 @@
 # FileSnoop
 
 ## A tool capable of conducting various static analysis operations to analyze a file. This tool comes with a built event monitor. 
-Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to your system.
+Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to the script for your system.
 
 # Installation:
 To run this binary navigate to the bin folder and run:
