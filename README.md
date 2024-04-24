@@ -9,7 +9,7 @@ To run this binary navigate to the bin folder and run:
 
 
 # Running 
-To run this script type 'python snoop.py [command] [file] 'followed by the relevant command on your command line. The commands and syntax are found below:
+The general syntax for running this command is 'python snoop.py [command] [file] '. A file is not always needed for each command. The commands are found below:
 
 ## --help
 
