@@ -9,7 +9,7 @@ To run this binary navigate to the bin folder and run:
 
 
 # Running 
-To run this script input snoop.py followed by the relevant command on your command-line. The commands below are used to run this tool:
+To run this script type 'python snoop.py [command] [file] 'followed by the relevant command on your command line. The commands and syntax are found below:
 
 ## --help
 
@@ -44,7 +44,7 @@ Search the reputation of domains and IP addresses found in a file
 Starts the event monitor. If no folder is specified it will scan the entire system
 
 
-# Issues
+# Troubleshooting
 `
 ImportError: urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.1.0h 
 `
