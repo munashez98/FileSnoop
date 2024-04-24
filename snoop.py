@@ -151,7 +151,7 @@ def virusTotalFull(file2VT):
     else:
 
         try:
-            client = vt.Client("feaafbed562f03323b21c47617af860ac8709c210284213b105fc15433a81eeb") #virustotal key ahould be put here
+            client = vt.Client("Your VT Key Here") #virustotal key ahould be put here
             file = client.get_object("/files/" + filehash)
 
             print("Virus databases report:")
@@ -168,7 +168,7 @@ def domainRep(file2Domain):
 
     file_existance = os.path.exists(file2Domain)
     filehash = hash(file2Domain)
-    API_key = "feaafbed562f03323b21c47617af860ac8709c210284213b105fc15433a81eeb" #virustotal key here
+    API_key = "Your VT Key Here" #virustotal key here
     VTurl = 'https://www.virustotal.com/vtapi/v2/url/report'
 
 
