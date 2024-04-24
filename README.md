@@ -1,6 +1,6 @@
 # FileSnoop
 
-## A tool capable of conducting various static analysis operations to analyze a file. This tool comes with a built event monitor. 
+## A tool capable of conducting various static analysis operations to analyze a file. This tool comes with a built-in event monitor. 
 Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to the script for your system.
 
 # Installation:
@@ -9,7 +9,7 @@ To run this binary navigate to the bin folder and run:
 
 
 # Running 
-A VirusTotal key is required to run two of the commands from this script. You can find one at https://docs.virustotal.com/reference/getting-started
+A VirusTotal key is required to run two of the commands from this script. You can find one at https://docs.virustotal.com/reference/getting-started. Once obtained, paste it in the relevant variable in the virusTotalFull() and domainRep() functions. You will find comments next to where to paste
 
 The general syntax for running this command is 'python snoop.py [command] [file] '. A file is not always needed for each command. The commands are found below:
 
