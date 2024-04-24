@@ -9,6 +9,8 @@ To run this binary navigate to the bin folder and run:
 
 
 # Running 
+A VirusTotal key is required to run two of the commands from this script. You can find one at https://docs.virustotal.com/reference/getting-started
+
 The general syntax for running this command is 'python snoop.py [command] [file] '. A file is not always needed for each command. The commands are found below:
 
 ## --help
