@@ -4,7 +4,7 @@
 Note for Windows users: This binary was designed for Unix-based systems, you may have to make some edits to the script for your system.
 
 # Installation:
-To run this binary navigate to the bin folder and run:
+To run this binary you will need some libraries. To install, navigate to the folder with requirements.txt and run:
 > pip install -r requirements.txt
 
 
